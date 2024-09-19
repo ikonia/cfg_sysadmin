@@ -1,0 +1,3 @@
+---
+
+cfg_sysadmin::pkgmgr_util_name: 'dnf-utils'
